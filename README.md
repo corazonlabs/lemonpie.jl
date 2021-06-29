@@ -1,2 +1,2 @@
 # lemonpie.jl
-A (Julia) deep learning library for Electronic Health Record (EHR) data
+A project to port [lemonpie](https://github.com/corazonlabs/lemonpie) to Julia.
